@@ -1,13 +1,13 @@
 # Olá, Mundo!
- Primeiro repositório do curso de Git e GitHub.
- Testando o editor do GitHub.
----
+Primeiro repositório do curso de Git e GitHub.
+Testando o editor do GitHub.
+
 ## Testando Markdown
 ### Formatação Simples
-**Negrito**, utilize o formato: \*\*Nome\*\* ou \_\_Nome\_\_
-_Itálico_, utilize o formato: \*Nome\* ou \_Nome\_
-Underline, utilize o formato: 
-~~Strikethrough~~, utilize o formato: \~\~Nome\~\~
+- **Negrito**, utilize o formato: \*\*Nome\*\* ou \_\_Nome\_\_
+- _Itálico_, utilize o formato: \*Nome\* ou \_Nome\_
+- Underline, utilize o formato: 
+- ~~Strikethrough~~, utilize o formato: \~\~Nome\~\~
 
 ### Lista numerada (n. item)
 1. Teste
@@ -23,7 +23,10 @@ Underline, utilize o formato:
     * Teste
 * Teste
 
-### Lista de tarefas (- [] item)
+### Lista de tarefas (- [ ] item)
 - [ ] Tarefa
 - [ ] Tarefa
 - [x] Tarefa
+
+### Mídias
+- Imagens
