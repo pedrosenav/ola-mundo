@@ -29,4 +29,14 @@ Testando o editor do GitHub.
 - [x] Tarefa
 
 ### Mídias
-- Imagens
+- Imagens ( ![nome]\(link\) )
+    ![Allen Iverson](https://mir-s3-cdn-cf.behance.net/projects/404/a82d3d147573485.Y3JvcCw4MDgsNjMyLDAsMA.png)
+- Links ( [nome]\(link\) )
+    - [Meu Behance](https://www.behance.net/pedrosenav)
+- Tabelas
+Index | Nome | Gênero
+:---:|---|---
+1 | Pedro | M
+2 | Duda | F
+
+-Código ( ´code´ )
