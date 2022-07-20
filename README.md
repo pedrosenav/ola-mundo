@@ -39,7 +39,7 @@ Index | Nome | Gênero
 1 | Pedro | M
 2 | Duda | F
 
--Código ( \`code\` ou \`\`\`)
+- Código ( \`code\` ou \`\`\`)
 
 `printf("texto");`
 ```
