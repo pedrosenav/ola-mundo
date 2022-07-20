@@ -39,4 +39,25 @@ Index | Nome | Gênero
 1 | Pedro | M
 2 | Duda | F
 
--Código ( ´code´ )
+-Código ( \`code\` ou \`\`\`)
+
+`printf("texto");`
+```
+#include<stdio.h>
+
+int main(){
+    for(int i=0;i<3;i++){
+        printf("%d",i);
+    }
+return 0;
+}
+```
+- Emoji ( :nome: )
+    - ✋ `:hand:`
+    - 😄 `:smile:`
+- Citações
+    - Citar usuários com \@
+        - @pedrosenav
+    - Quote com \>
+        - > Ser ou não ser [...]
+    
